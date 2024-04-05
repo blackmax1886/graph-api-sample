@@ -1,0 +1,19 @@
+{
+  "name": "graph-api",
+  "version": "1.0.0",
+  "description": "sample for Microsoft Graph API on Typescript",
+  "scripts": {
+    "main": "ts-node main.ts"
+  },
+  "author": "blackmax1886",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "@azure/msal-node": "^2.6.6",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
